@@ -1,0 +1,1 @@
+6.      La misma anterior, pero con PYTHON lea la consulta SQL (case-when) y desplieguela.
