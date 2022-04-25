@@ -1,0 +1,1 @@
+1.      Genere una pantalla con templates (CSS y PHP) debidamente maquetado de acceso a la facultad y al menos tres carreras
