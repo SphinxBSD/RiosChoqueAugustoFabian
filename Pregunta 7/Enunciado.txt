@@ -1,0 +1,1 @@
+7.      Implemente las altas, bajas y cambios de la tabla PERSONA mediente Codeigniter.
