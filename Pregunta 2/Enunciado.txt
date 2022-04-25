@@ -1,0 +1,1 @@
+2.      Genere una pantalla con templates (CODEIGNITER) debidamente maquetado de acceso a la facultad y al menos tres carreras
