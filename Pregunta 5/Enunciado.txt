@@ -1,0 +1,1 @@
+5.      Que el rol DIRECTOR pueda visualizar por departamento la media de notas, solo código PHP bajando la consulta en un array (similar al case-when, pero sin usar estos).
