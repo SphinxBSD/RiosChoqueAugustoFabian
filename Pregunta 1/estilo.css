@@ -1,0 +1,28 @@
+img {
+    width: 100%;
+    height: auto;
+}
+
+header{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+
+body {
+    background-color:antiquewhite ;
+}
+
+a {
+    font-size: 30px;
+}
+
+#matematica {
+    margin: 40px;
+}
+#fisica {
+    margin: 40px;
+}
+#informatica {
+    margin: 40px;
+}

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fisica</title>
+</head>
+<body>
+    <?php include "cabecera.inc.php";?>
+    <hr>
+    <?php include "contenido.inc.php";?>
+    <hr>
+    <?php include "final.inc.php";?>
+</body>
+</html>

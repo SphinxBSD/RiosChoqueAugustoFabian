@@ -1,0 +1,29 @@
+p {
+    color:beige;
+    font-size: 20px;
+}
+
+h3 {
+    background-color:#0052cc;
+    font-size: 24px;
+}
+.cabecera {
+    background-color:#0052cc;
+}
+th {
+    font-size: 20px;
+}
+
+a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+
+
+a:hover {
+    color: skyblue;
+}
+
+a:visited {
+    color: green;
+}
